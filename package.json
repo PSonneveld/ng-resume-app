@@ -22,7 +22,7 @@
     "@angular/router": "^9.0.0",
     "core-js": "3.6.4",
     "html2canvas": "1.0.0-rc.5",
-    "jspdf": "1.5.3",
+    "jspdf": "4.1.0",
     "ng2-pdf-viewer": "6.1.2",
     "rxjs": "6.5.4",
     "zone.js": "0.10.2"
